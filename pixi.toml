@@ -1,0 +1,11 @@
+[workspace]
+channels = ["conda-forge"]
+name = "plaquette"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+pytorch = ">=2.13.0,<3"
+python = ">=3.12.14,<3.13"
