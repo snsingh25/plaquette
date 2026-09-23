@@ -9,3 +9,5 @@ version = "0.1.0"
 [dependencies]
 pytorch = ">=2.13.0,<3"
 python = ">=3.12.14,<3.13"
+matplotlib = ">=3.11.2,<4"
+pillow = ">=12.3.0,<13"
